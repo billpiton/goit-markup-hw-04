@@ -266,7 +266,12 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.mainsection-d {
+.social-net {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+.social .mainsection-d {
   padding-top: 120px;
   padding-bottom: 120px;
 }
