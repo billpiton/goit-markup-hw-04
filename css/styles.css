@@ -323,7 +323,7 @@ img {
   padding-left: 0;
   margin: 0;
 }
-.item-a {
+.item {
   box-shadow: cubic-bezier(0.4, 0, 0.2, 1);
 }
 .item-a.hover {
