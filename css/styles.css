@@ -399,12 +399,16 @@ img {
 .item.app:hover {
   transform: translateY(0%);
 }
+.foter{
+  margin-right: 120px;
+}
+
 .foter_container {
   background-color: #2e2f42;
   padding: 100px 0;
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
+\
 }
 .foter_sicial {
   font-weight: 500;
