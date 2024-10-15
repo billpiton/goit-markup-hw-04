@@ -257,6 +257,7 @@ img {
 .mainsection-c-container-list {
   display: flex;
   gap: 24px;
+  padding-left: 0;
 }
 .our-team {
   font-size: 36px;
