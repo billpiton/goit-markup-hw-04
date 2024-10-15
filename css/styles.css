@@ -317,12 +317,11 @@ img {
   align-items: center;
   justify-content: center;
 }
-.icon-social-item.hover {
+.icon-social-item:hover,
+.icon-social-item:focus {
   background-color: #404bbf;
 }
-.icon-social-item.focus {
-  background-color: #404bbf;
-}
+
 .icon-social {
   fill: #f4f4fd;
 }
@@ -350,7 +349,7 @@ img {
 .item {
   box-shadow: cubic-bezier(0.4, 0, 0.2, 1);
 }
-.item.hover {
+.item:hover {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
@@ -397,7 +396,7 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.item.app.hover {
+.item.app:hover {
   transform: translateY(0%);
 }
 .foter_container {
@@ -433,15 +432,14 @@ img {
   align-items: center;
   justify-content: center;
 }
-.foter_sicial_list_item_a_link.hover {
+.foter_sicial_list_item_a_link:hover,
+.foter_sicial_list_item_a_link:focus {
   background-color: #31d0aa;
 }
 .foter_icon {
   fill: #f4f4fd;
 }
-.foter_sicial_list_item_a_link.focus {
-  background-color: #31d0aa;
-}
+
 .container {
   margin-right: 120px;
 }
