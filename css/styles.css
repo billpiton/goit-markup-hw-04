@@ -380,6 +380,7 @@ img {
   padding: 100px 0;
   display: flex;
   align-items: baseline;
+  margin-right: 120px;
 }
 .foter_sicial {
   font-weight: 500;
